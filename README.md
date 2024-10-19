@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kinshuk Saini
-- 👀 I’m interested in AI, App dev
+- 👀 I’m interested in AI
 - 🌱 I’m currently learning DSA in C++
       and machine learning through Python
 - 📫 How to reach me - kinshukrosh@gmail.com
