@@ -31,9 +31,9 @@
 
 ## About
 
-I'm a Software Engineer with a focus on AI/ML systems and full-stack development, based in New Delhi, India. I specialize in building production-grade multimodal AI pipelines, scalable backend architectures, and non-linear interactive interfaces. 
+I'm a Software Engineer with a focus on building robust full-stack applications and scalable backend architectures, based in New Delhi, India. I specialize in designing high-performance backend systems, managing database schemas, and crafting interactive, non-linear user interfaces. 
 
-With hands-on experience in LLM evaluation, multiagent orchestration, and cloud deployments, I aim to combine modern AI capabilities with solid, reliable engineering foundations.
+With hands-on experience developing end-to-end platform workflows and optimizing query latency, I aim to combine secure, reliable software engineering foundations with modern applied AI capabilities.
 
 ---
 <br/>
@@ -47,7 +47,7 @@ With hands-on experience in LLM evaluation, multiagent orchestration, and cloud 
 | **AI / ML** | LangChain · RAG · Multiagent Systems · Transformers · PyTorch · TensorFlow · Scikit-Learn |
 | **Frontend** | React · Next.js · TypeScript · JavaScript · TailwindCSS · React Flow · Gradio |
 | **Backend** | Node.js · FastAPI · Express.js · PostgreSQL · MongoDB · Drizzle ORM · REST APIs · SQL |
-| **Cloud & Infra** | AWS · GCP (Google GenAI) · Docker · Git · GitHub |
+| **Cloud & Infra** | AWS · GCP (Google GenAI) · Supabase · Docker · Git · GitHub |
 
 </div>
 
