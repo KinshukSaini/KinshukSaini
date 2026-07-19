@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/GitHub-0f172a?style=flat-square&logo=github&logoColor=f8fafc&labelColor=0f172a" height="28"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/kinshuksaini/">
+  <a href="https://www.linkedin.com/in/kinshuk-saini/">
     <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=0ea5e9&labelColor=0f172a" height="28"/>
   </a>
   &nbsp;
