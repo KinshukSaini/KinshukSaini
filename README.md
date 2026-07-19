@@ -52,24 +52,6 @@ With hands-on experience developing end-to-end platform workflows and optimizing
 </div>
 
 <br/>
-
----
-<br/>
-
-## 💼 Experience
-
-### AI Engineer Intern · Whisttlers Technologies Pt. Ltd.
-*Apr 2026 – Jul 2026 | New Delhi, India (Remote/Hybrid)*
-- **Multimodal AI Pipelines:** Built end-to-end pipelines in Python, integrating foundation models, speech synthesis (ElevenLabs), and video generation (BytePlus) via Google GenAI and AWS SDKs, reducing manual workflow steps by **~60%**.
-- **LLM Benchmarking:** Evaluated and benchmarked 5+ LLMs across diverse NLP and vision tasks to support model selection for production deployment; documented latency, accuracy, and cost trade-offs.
-
-### Software Development Intern · Lexley.ai (Zangerr.ai)
-*Feb 2025 – Aug 2025 | Astana, Kazakhstan (Remote)*
-- **Legal Tech Platform:** Developed and maintained an AI-powered legal document automation platform using Next.js and PostgreSQL, supporting end-to-end workflows for legal professionals handling **1,000+ documents/month**.
-- **Schema & Performance Design:** Designed backend services and database schemas using Drizzle ORM, improving query performance by **~35%** and enhancing application stability under production workloads.
-
-<br/>
-
 ---
 <br/>
 
